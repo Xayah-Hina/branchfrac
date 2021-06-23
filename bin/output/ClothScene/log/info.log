@@ -1,0 +1,12 @@
+[2021-06-08 14:54:21] Debug:   Git refspec: refs/heads/master
+[2021-06-08 14:54:21] Debug:   Git SHA1:    
+[2021-06-08 14:54:21] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-06-08 14:54:21] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-06-08 14:54:22] Info:    OpenGL version 2.1
+[2021-06-08 14:54:22] Info:    Using GLEW 2.1.0
+[2021-06-08 14:54:22] Info:    Vendor: Intel Inc.
+[2021-06-08 14:54:22] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-06-08 14:54:22] Info:    Version: 2.1 INTEL-16.2.16
+[2021-06-08 14:54:22] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-08 14:54:22] Info:    Number of triangles: 12
+[2021-06-08 14:54:22] Info:    Number of vertices: 8

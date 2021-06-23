@@ -1,0 +1,11 @@
+[2021-05-23 16:50:26] Debug:   Git refspec: refs/heads/master
+[2021-05-23 16:50:26] Debug:   Git SHA1:    
+[2021-05-23 16:50:26] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-05-23 16:50:26] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-05-23 16:50:28] Info:    OpenGL version 2.1
+[2021-05-23 16:50:28] Info:    Using GLEW 2.1.0
+[2021-05-23 16:50:28] Info:    Vendor: Intel Inc.
+[2021-05-23 16:50:28] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-05-23 16:50:28] Info:    Version: 2.1 INTEL-16.2.16
+[2021-05-23 16:50:28] Info:    Number of tets: 2
+[2021-05-23 16:50:28] Info:    Number of vertices: 4

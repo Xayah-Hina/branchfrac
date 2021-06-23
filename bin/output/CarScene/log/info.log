@@ -1,0 +1,16 @@
+[2021-05-10 17:00:02] Debug:   Git refspec: GITDIR-NOTFOUND
+[2021-05-10 17:00:02] Debug:   Git SHA1:    GITDIR-NOTFOUND
+[2021-05-10 17:00:02] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-05-10 17:00:02] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-05-10 17:00:03] Info:    OpenGL version 2.1
+[2021-05-10 17:00:03] Info:    Using GLEW 2.1.0
+[2021-05-10 17:00:03] Info:    Vendor: Intel Inc.
+[2021-05-10 17:00:03] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-05-10 17:00:03] Info:    Version: 2.1 INTEL-16.2.16
+[2021-05-10 17:00:03] Info:    Load scene file: /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/scenes/CarScene.json
+[2021-05-10 17:00:03] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-05-10 17:00:03] Info:    Number of triangles: 12
+[2021-05-10 17:00:03] Info:    Number of vertices: 8
+[2021-05-10 17:00:03] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/sphere.obj
+[2021-05-10 17:00:03] Info:    Number of triangles: 2280
+[2021-05-10 17:00:03] Info:    Number of vertices: 1146

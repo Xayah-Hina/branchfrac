@@ -1,0 +1,21 @@
+[2021-05-22 14:57:46] Debug:   Git refspec: GITDIR-NOTFOUND
+[2021-05-22 14:57:46] Debug:   Git SHA1:    GITDIR-NOTFOUND
+[2021-05-22 14:57:46] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-05-22 14:57:46] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-05-22 14:57:46] Info:    OpenGL version 2.1
+[2021-05-22 14:57:46] Info:    Using GLEW 2.1.0
+[2021-05-22 14:57:46] Info:    Vendor: Intel Inc.
+[2021-05-22 14:57:46] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-05-22 14:57:46] Info:    Version: 2.1 INTEL-16.2.16
+[2021-05-22 14:57:46] Info:    Load scene file: /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/scenes/ArmadilloCollisionScene.json
+[2021-05-22 14:57:46] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-05-22 14:57:46] Info:    Number of triangles: 12
+[2021-05-22 14:57:46] Info:    Number of vertices: 8
+[2021-05-22 14:57:46] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/armadillo.obj
+[2021-05-22 14:57:47] Info:    Number of triangles: 30000
+[2021-05-22 14:57:47] Info:    Number of vertices: 15002
+[2021-05-22 14:57:47] Info:    Load cached SDF: /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/scenes/Cache/armadillo.obj_20_20_20.csdf
+[2021-05-22 14:57:47] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/armadillo_4k.node
+[2021-05-22 14:57:47] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/armadillo_4k.ele
+[2021-05-22 14:57:47] Info:    Number of tets: 3717
+[2021-05-22 14:57:47] Info:    Number of vertices: 1180

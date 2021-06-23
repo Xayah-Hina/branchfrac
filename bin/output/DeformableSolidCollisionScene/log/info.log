@@ -1,0 +1,123 @@
+[2021-06-17 15:52:11] Debug:   Git refspec: refs/heads/master
+[2021-06-17 15:52:11] Debug:   Git SHA1:    
+[2021-06-17 15:52:11] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-06-17 15:52:11] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-06-17 15:52:11] Info:    OpenGL version 2.1
+[2021-06-17 15:52:11] Info:    Using GLEW 2.1.0
+[2021-06-17 15:52:11] Info:    Vendor: Intel Inc.
+[2021-06-17 15:52:11] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-06-17 15:52:11] Info:    Version: 2.1 INTEL-16.2.16
+[2021-06-17 15:52:11] Info:    Number of tets: 10933
+[2021-06-17 15:52:11] Info:    Number of vertices: 3768
+[2021-06-17 15:52:11] Info:    Number of tets: 380
+[2021-06-17 15:52:11] Info:    Number of vertices: 180
+[2021-06-17 15:52:11] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:52:11] Info:    Number of triangles: 12
+[2021-06-17 15:52:11] Info:    Number of vertices: 8
+[2021-06-17 15:52:11] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:52:11] Info:    Number of triangles: 1600
+[2021-06-17 15:52:11] Info:    Number of vertices: 800
+[2021-06-17 15:52:29] Info:    Average time SimStep: 7.23927 ms
+[2021-06-17 15:52:29] Info:    Average time simulation step: 7.23845 ms
+[2021-06-17 15:52:29] Info:    Average time collision detection: 0.18005 ms
+[2021-06-17 15:52:29] Info:    Average time position constraints projection: 1.29132 ms
+[2021-06-17 15:52:29] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:52:29] Info:    Number of tets: 10933
+[2021-06-17 15:52:29] Info:    Number of vertices: 3768
+[2021-06-17 15:52:29] Info:    Number of tets: 380
+[2021-06-17 15:52:29] Info:    Number of vertices: 180
+[2021-06-17 15:52:29] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:52:29] Info:    Number of triangles: 12
+[2021-06-17 15:52:29] Info:    Number of vertices: 8
+[2021-06-17 15:52:29] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:52:29] Info:    Number of triangles: 1600
+[2021-06-17 15:52:29] Info:    Number of vertices: 800
+[2021-06-17 15:52:37] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:52:37] Info:    Number of tets: 10933
+[2021-06-17 15:52:37] Info:    Number of vertices: 3768
+[2021-06-17 15:52:37] Info:    Number of tets: 380
+[2021-06-17 15:52:37] Info:    Number of vertices: 180
+[2021-06-17 15:52:37] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:52:37] Info:    Number of triangles: 12
+[2021-06-17 15:52:37] Info:    Number of vertices: 8
+[2021-06-17 15:52:37] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:52:37] Info:    Number of triangles: 1600
+[2021-06-17 15:52:37] Info:    Number of vertices: 800
+[2021-06-17 15:52:44] Info:    Average time SimStep: 7.20662 ms
+[2021-06-17 15:52:44] Info:    Average time simulation step: 7.20544 ms
+[2021-06-17 15:52:44] Info:    Average time collision detection: 0.160909 ms
+[2021-06-17 15:52:44] Info:    Average time position constraints projection: 1.1639 ms
+[2021-06-17 15:52:44] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:52:44] Info:    Number of tets: 10933
+[2021-06-17 15:52:44] Info:    Number of vertices: 3768
+[2021-06-17 15:52:44] Info:    Number of tets: 380
+[2021-06-17 15:52:44] Info:    Number of vertices: 180
+[2021-06-17 15:52:44] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:52:44] Info:    Number of triangles: 12
+[2021-06-17 15:52:44] Info:    Number of vertices: 8
+[2021-06-17 15:52:44] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:52:44] Info:    Number of triangles: 1600
+[2021-06-17 15:52:44] Info:    Number of vertices: 800
+[2021-06-17 15:52:52] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:52:52] Info:    Number of tets: 10933
+[2021-06-17 15:52:52] Info:    Number of vertices: 3768
+[2021-06-17 15:52:52] Info:    Number of tets: 380
+[2021-06-17 15:52:52] Info:    Number of vertices: 180
+[2021-06-17 15:52:52] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:52:52] Info:    Number of triangles: 12
+[2021-06-17 15:52:52] Info:    Number of vertices: 8
+[2021-06-17 15:52:52] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:52:52] Info:    Number of triangles: 1600
+[2021-06-17 15:52:52] Info:    Number of vertices: 800
+[2021-06-17 15:53:04] Info:    Average time SimStep: 8.26697 ms
+[2021-06-17 15:53:04] Info:    Average time simulation step: 8.2658 ms
+[2021-06-17 15:53:04] Info:    Average time collision detection: 0.173658 ms
+[2021-06-17 15:53:04] Info:    Average time position constraints projection: 1.48094 ms
+[2021-06-17 15:53:04] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:53:04] Info:    Number of tets: 10933
+[2021-06-17 15:53:04] Info:    Number of vertices: 3768
+[2021-06-17 15:53:04] Info:    Number of tets: 380
+[2021-06-17 15:53:04] Info:    Number of vertices: 180
+[2021-06-17 15:53:04] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:53:04] Info:    Number of triangles: 12
+[2021-06-17 15:53:04] Info:    Number of vertices: 8
+[2021-06-17 15:53:04] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:53:04] Info:    Number of triangles: 1600
+[2021-06-17 15:53:04] Info:    Number of vertices: 800
+[2021-06-17 15:53:07] Info:    Average time SimStep: 9.17861 ms
+[2021-06-17 15:53:07] Info:    Average time simulation step: 9.17744 ms
+[2021-06-17 15:53:07] Info:    Average time collision detection: 0.177887 ms
+[2021-06-17 15:53:07] Info:    Average time position constraints projection: 1.65116 ms
+[2021-06-17 15:53:07] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:53:07] Info:    Number of tets: 10933
+[2021-06-17 15:53:07] Info:    Number of vertices: 3768
+[2021-06-17 15:53:07] Info:    Number of tets: 380
+[2021-06-17 15:53:07] Info:    Number of vertices: 180
+[2021-06-17 15:53:07] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:53:07] Info:    Number of triangles: 12
+[2021-06-17 15:53:07] Info:    Number of vertices: 8
+[2021-06-17 15:53:07] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:53:07] Info:    Number of triangles: 1600
+[2021-06-17 15:53:07] Info:    Number of vertices: 800
+[2021-06-17 15:53:18] Info:    Average time SimStep: 8.59604 ms
+[2021-06-17 15:53:18] Info:    Average time simulation step: 8.59472 ms
+[2021-06-17 15:53:18] Info:    Average time collision detection: 0.173347 ms
+[2021-06-17 15:53:18] Info:    Average time position constraints projection: 1.39797 ms
+[2021-06-17 15:53:18] Info:    ---------------------------------------------------------------------------
+
+[2021-06-17 15:53:18] Info:    Number of tets: 10933
+[2021-06-17 15:53:18] Info:    Number of vertices: 3768
+[2021-06-17 15:53:18] Info:    Number of tets: 380
+[2021-06-17 15:53:18] Info:    Number of vertices: 180
+[2021-06-17 15:53:18] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cube.obj
+[2021-06-17 15:53:18] Info:    Number of triangles: 12
+[2021-06-17 15:53:18] Info:    Number of vertices: 8
+[2021-06-17 15:53:18] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/torus.obj
+[2021-06-17 15:53:18] Info:    Number of triangles: 1600
+[2021-06-17 15:53:18] Info:    Number of vertices: 800

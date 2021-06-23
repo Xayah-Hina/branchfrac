@@ -1,0 +1,16 @@
+[2021-05-10 17:19:04] Debug:   Git refspec: GITDIR-NOTFOUND
+[2021-05-10 17:19:04] Debug:   Git SHA1:    GITDIR-NOTFOUND
+[2021-05-10 17:19:04] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2021-05-10 17:19:04] Debug:   Host name:   Xayahs-MacBook-Pro.local
+[2021-05-10 17:19:05] Info:    OpenGL version 2.1
+[2021-05-10 17:19:05] Info:    Using GLEW 2.1.0
+[2021-05-10 17:19:05] Info:    Vendor: Intel Inc.
+[2021-05-10 17:19:05] Info:    Renderer: Intel(R) Iris(TM) Plus Graphics 655
+[2021-05-10 17:19:05] Info:    Version: 2.1 INTEL-16.2.16
+[2021-05-10 17:19:05] Info:    Load scene file: /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/scenes/Wilberforce_scene.json
+[2021-05-10 17:19:05] Info:    Loading /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cylinder_unit_box.obj
+[2021-05-10 17:19:05] Info:    Number of triangles: 760
+[2021-05-10 17:19:05] Info:    Number of vertices: 382
+[2021-05-10 17:19:05] Info:    Set SDF resolution: 10, 10, 10
+[2021-05-10 17:19:05] Info:    Generate SDF for /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/models/cylinder_unit_box.obj
+[2021-05-10 17:19:05] Info:    Save SDF: /Users/polaris/Desktop/Graphics/FrameWorks/PositionBasedDynamics-1.8-1/data/scenes/Cache/cylinder_unit_box.obj_10_10_10.csdf
