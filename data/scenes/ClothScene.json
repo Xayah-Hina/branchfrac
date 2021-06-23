@@ -1,0 +1,164 @@
+{
+    "BallJoints": [],
+    "BallOnLineJoints": [],
+    "DamperJoints": [],
+    "DistanceJoints": [],
+    "HingeJoints": [],
+    "Name": "ClothScene",
+    "RigidBodies": [
+        {
+            "angularVelocity": [
+                0,
+                0,
+                0
+            ],
+            "collisionObjectFileName": "",
+            "collisionObjectScale": [
+                100,
+                1,
+                100
+            ],
+            "collisionObjectType": 2,
+            "density": 500,
+            "friction": 0.3,
+            "geometryFile": "../models/cube.obj",
+            "id": 1,
+            "isDynamic": 0,
+            "restitution": 0.6,
+            "rotationAngle": 0.0,
+            "rotationAxis": [
+                1,
+                0,
+                0
+            ],
+            "scale": [
+                100,
+                1,
+                100
+            ],
+            "testMesh": 1,
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "velocity": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "angularVelocity": [
+                0,
+                0,
+                0
+            ],
+            "collisionObjectFileName": "",
+            "collisionObjectScale": [
+                2,
+                1,
+                2
+            ],
+            "collisionObjectType": 4,
+            "density": 500,
+            "friction": 0.1,
+            "geometryFile": "../models/torus.obj",
+            "id": 2,
+            "isDynamic": 0,
+            "restitution": 0.2,
+            "rotationAngle": 0.0,
+            "rotationAxis": [
+                1,
+                0,
+                0
+            ],
+            "scale": [
+                2,
+                2,
+                2
+            ],
+            "testMesh": 1,
+            "translation": [
+                0,
+                5,
+                0
+            ],
+            "velocity": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "RigidBodyParticleBallJoints": [],
+    "RigidBodySprings": [],
+    "Simulation": {
+        "cloth_bendingStiffness": 0.005,
+        "cloth_normalizeShear": 0,
+        "cloth_normalizeStretch": 0,
+        "cloth_stiffness": 1.0,
+        "cloth_xxStiffness": 1.0,
+        "cloth_xyPoissonRatio": 0.3,
+        "cloth_xyStiffness": 1.0,
+        "cloth_yxPoissonRatio": 0.3,
+        "cloth_yyStiffness": 1.0,
+        "contactStiffnessParticleRigidBody": 100.0,
+        "contactStiffnessRigidBody": 1.0,
+        "contactTolerance": 0.05,
+        "gravity": [
+            0,
+            -9.81,
+            0
+        ],
+        "maxIter": 5,
+        "maxIterVel": 5,
+        "numberOfStepsPerRenderUpdate": 4,
+        "timeStepSize": 0.005,
+        "triangleModelBendingMethod": 2,
+        "triangleModelSimulationMethod": 2,
+        "velocityUpdateMethod": 0
+    },
+    "SliderJoints": [],
+    "TargetAngleMotorHingeJoints": [],
+    "TargetPositionMotorSliderJoints": [],
+    "TargetVelocityMotorHingeJoints": [],
+    "TargetVelocityMotorSliderJoints": [],
+    "TetModels": [],
+    "TriangleModels": [
+        {
+            "friction": 0.1,
+            "geometryFile": "../models/plane_50x50.obj",
+            "id": 3,
+            "restitution": 0.2,
+            "rotationAngle": 0.0,
+            "rotationAxis": [
+                1,
+                0,
+                0
+            ],
+            "scale": [
+                10,
+                10,
+                10
+            ],
+            "staticParticles": [],
+            "translation": [
+                0,
+                10,
+                0
+            ]
+        }
+    ],
+    "UniversalJoints": [],
+    "cameraLookat": [
+        0,
+        0,
+        0
+    ],
+    "cameraPosition": [
+        0,
+        15,
+        30
+    ]
+}
