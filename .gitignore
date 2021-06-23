@@ -1,9 +1,5 @@
 cmake-build-debug/
 bin/
-Demos/
-!Demos/Common
-!Demos/BranchFracture/
-!Demos/CMakeLists.txt
 doc/
 extern/
 lib/
